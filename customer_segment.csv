@@ -1,0 +1,1484 @@
+account_id,customer_segment
+4,Champions
+8,Potential Loyalists
+9,Champions
+10,Potential Loyalists
+12,Champions
+13,Potential Loyalists
+25,Champions
+37,Potential Loyalists
+39,Champions
+46,Champions
+50,Champions
+56,Potential Loyalists
+62,Potential Loyalists
+67,Champions
+81,Potential Loyalists
+85,Champions
+87,Potential Loyalists
+102,Champions
+120,Potential Loyalists
+128,Potential Loyalists
+132,Champions
+134,Potential Loyalists
+149,Potential Loyalists
+156,Potential Loyalists
+170,Champions
+171,Potential Loyalists
+172,Potential Loyalists
+174,Potential Loyalists
+175,Champions
+177,Leaving Customers
+178,Champions
+187,Champions
+193,Champions
+202,Potential Loyalists
+205,Potential Loyalists
+210,Potential Loyalists
+237,Leaving Customers
+238,Champions
+257,Potential Loyalists
+268,Champions
+270,Leaving Customers
+275,Champions
+278,Leaving Customers
+279,Leaving Customers
+291,Risky Customers
+294,Champions
+296,Champions
+301,Potential Loyalists
+305,Champions
+306,Potential Loyalists
+310,Champions
+313,Champions
+314,Risky Customers
+315,Champions
+323,Leaving Customers
+339,Leaving Customers
+340,Leaving Customers
+343,Leaving Customers
+346,Leaving Customers
+350,Potential Loyalists
+351,Potential Loyalists
+355,Champions
+360,Champions
+369,Potential Loyalists
+379,Champions
+383,Potential Loyalists
+389,Leaving Customers
+391,Potential Loyalists
+395,Champions
+396,Champions
+399,Champions
+400,Champions
+405,Risky Customers
+407,Champions
+409,Leaving Customers
+410,Risky Customers
+411,Leaving Customers
+412,Leaving Customers
+413,Champions
+419,Champions
+420,Potential Loyalists
+425,Potential Loyalists
+427,Champions
+428,Potential Loyalists
+430,Risky Customers
+431,Champions
+432,Leaving Customers
+433,Champions
+434,Champions
+437,Champions
+440,Risky Customers
+442,Champions
+443,Leaving Customers
+450,Potential Loyalists
+451,Potential Loyalists
+454,Leaving Customers
+459,Potential Loyalists
+461,Leaving Customers
+464,Potential Loyalists
+465,Potential Loyalists
+467,Champions
+468,Leaving Customers
+470,Leaving Customers
+471,Champions
+475,Champions
+476,Champions
+480,Leaving Customers
+481,Leaving Customers
+487,Leaving Customers
+490,Champions
+491,Leaving Customers
+492,Leaving Customers
+493,Leaving Customers
+494,Risky Customers
+496,Leaving Customers
+500,Champions
+504,Champions
+511,Potential Loyalists
+512,Champions
+517,Leaving Customers
+521,Potential Loyalists
+524,Risky Customers
+525,Potential Loyalists
+529,Champions
+531,Leaving Customers
+537,Champions
+538,Leaving Customers
+539,Champions
+546,Champions
+568,Risky Customers
+573,Risky Customers
+576,Champions
+584,Potential Loyalists
+587,Risky Customers
+589,Risky Customers
+592,Champions
+596,Potential Loyalists
+597,Risky Customers
+598,Potential Loyalists
+600,Leaving Customers
+602,Champions
+604,Potential Loyalists
+605,Potential Loyalists
+608,Leaving Customers
+610,Leaving Customers
+615,Leaving Customers
+621,Leaving Customers
+622,Potential Loyalists
+627,Potential Loyalists
+629,Leaving Customers
+631,Champions
+635,Leaving Customers
+637,Potential Loyalists
+638,Champions
+639,Risky Customers
+642,Risky Customers
+643,Leaving Customers
+644,Potential Loyalists
+647,Champions
+648,Potential Loyalists
+650,Potential Loyalists
+654,Potential Loyalists
+656,Potential Loyalists
+658,Potential Loyalists
+663,Champions
+665,Champions
+670,Leaving Customers
+671,Leaving Customers
+672,Champions
+673,Risky Customers
+675,Leaving Customers
+676,Potential Loyalists
+685,Potential Loyalists
+686,Champions
+687,Leaving Customers
+688,Risky Customers
+692,Leaving Customers
+693,Risky Customers
+695,Potential Loyalists
+697,Potential Loyalists
+699,Leaving Customers
+701,Champions
+702,Potential Loyalists
+707,Potential Loyalists
+709,Risky Customers
+710,Champions
+723,Leaving Customers
+727,Risky Customers
+730,Risky Customers
+731,Leaving Customers
+732,Potential Loyalists
+733,Leaving Customers
+734,Leaving Customers
+736,Champions
+737,Potential Loyalists
+738,Potential Loyalists
+740,Champions
+743,Potential Loyalists
+746,Potential Loyalists
+749,Leaving Customers
+750,Potential Loyalists
+751,Leaving Customers
+754,Leaving Customers
+755,Risky Customers
+758,Leaving Customers
+762,Potential Loyalists
+764,Potential Loyalists
+767,Risky Customers
+773,Potential Loyalists
+774,Leaving Customers
+775,Champions
+780,Potential Loyalists
+782,Potential Loyalists
+783,Potential Loyalists
+787,Risky Customers
+789,Potential Loyalists
+791,Champions
+792,Leaving Customers
+794,Champions
+796,Leaving Customers
+798,Champions
+801,Leaving Customers
+802,Champions
+806,Leaving Customers
+807,Champions
+808,Champions
+809,Potential Loyalists
+810,Leaving Customers
+811,Potential Loyalists
+813,Potential Loyalists
+817,Champions
+819,Potential Loyalists
+821,Champions
+822,Potential Loyalists
+825,Potential Loyalists
+829,Risky Customers
+834,Potential Loyalists
+841,Risky Customers
+845,Champions
+846,Potential Loyalists
+847,Risky Customers
+848,Risky Customers
+849,Champions
+851,Leaving Customers
+852,Champions
+853,Risky Customers
+854,Risky Customers
+855,Potential Loyalists
+857,Champions
+858,Champions
+859,Champions
+861,Potential Loyalists
+864,Champions
+867,Potential Loyalists
+869,Champions
+870,Champions
+871,Champions
+873,Champions
+874,Leaving Customers
+879,Potential Loyalists
+883,Champions
+887,Risky Customers
+891,Champions
+893,Leaving Customers
+894,Leaving Customers
+901,Leaving Customers
+907,Champions
+908,Risky Customers
+912,Risky Customers
+923,Risky Customers
+925,Potential Loyalists
+937,Risky Customers
+938,Champions
+944,Potential Loyalists
+946,Potential Loyalists
+950,Potential Loyalists
+953,Leaving Customers
+954,Leaving Customers
+956,Leaving Customers
+960,Champions
+967,Potential Loyalists
+973,Champions
+974,Leaving Customers
+976,Leaving Customers
+977,Potential Loyalists
+978,Leaving Customers
+982,Leaving Customers
+986,Champions
+988,Risky Customers
+995,Champions
+999,Risky Customers
+1000,Potential Loyalists
+1005,Leaving Customers
+1012,Champions
+1013,Champions
+1014,Potential Loyalists
+1015,Leaving Customers
+1016,Risky Customers
+1017,Risky Customers
+1020,Risky Customers
+1021,Leaving Customers
+1022,Potential Loyalists
+1023,Potential Loyalists
+1029,Potential Loyalists
+1030,Potential Loyalists
+1031,Champions
+1032,Potential Loyalists
+1033,Potential Loyalists
+1035,Potential Loyalists
+1036,Leaving Customers
+1037,Champions
+1043,Champions
+1044,Leaving Customers
+1047,Champions
+1049,Champions
+1051,Potential Loyalists
+1052,Champions
+1053,Champions
+1054,Potential Loyalists
+1058,Leaving Customers
+1061,Champions
+1062,Leaving Customers
+1063,Potential Loyalists
+1065,Champions
+1066,Champions
+1067,Risky Customers
+1068,Champions
+1070,Potential Loyalists
+1073,Leaving Customers
+1077,Leaving Customers
+1080,Champions
+1083,Potential Loyalists
+1084,Champions
+1086,Potential Loyalists
+1090,Champions
+1092,Potential Loyalists
+1095,Risky Customers
+1097,Potential Loyalists
+1098,Leaving Customers
+1099,Risky Customers
+1102,Risky Customers
+1103,Risky Customers
+1104,Risky Customers
+1105,Champions
+1106,Risky Customers
+1107,Champions
+1108,Leaving Customers
+1111,Risky Customers
+1113,Leaving Customers
+1116,Champions
+1118,Leaving Customers
+1119,Potential Loyalists
+1123,Potential Loyalists
+1124,Champions
+1126,Risky Customers
+1127,Potential Loyalists
+1129,Potential Loyalists
+1130,Champions
+1131,Leaving Customers
+1132,Potential Loyalists
+1133,Potential Loyalists
+1136,Potential Loyalists
+1138,Leaving Customers
+1145,Leaving Customers
+1153,Potential Loyalists
+1161,Leaving Customers
+1164,Champions
+1177,Champions
+1180,Risky Customers
+1182,Champions
+1184,Leaving Customers
+1185,Champions
+1186,Leaving Customers
+1190,Potential Loyalists
+1192,Risky Customers
+1193,Leaving Customers
+1194,Leaving Customers
+1195,Potential Loyalists
+1196,Risky Customers
+1200,Potential Loyalists
+1202,Potential Loyalists
+1203,Potential Loyalists
+1206,Risky Customers
+1210,Champions
+1212,Potential Loyalists
+1215,Risky Customers
+1216,Potential Loyalists
+1220,Champions
+1222,Leaving Customers
+1223,Potential Loyalists
+1224,Champions
+1228,Champions
+1231,Leaving Customers
+1234,Potential Loyalists
+1240,Risky Customers
+1243,Leaving Customers
+1244,Risky Customers
+1245,Risky Customers
+1246,Champions
+1248,Risky Customers
+1250,Leaving Customers
+1251,Champions
+1252,Risky Customers
+1255,Champions
+1256,Risky Customers
+1257,Risky Customers
+1258,Champions
+1260,Risky Customers
+1263,Champions
+1265,Risky Customers
+1266,Potential Loyalists
+1267,Risky Customers
+1274,Potential Loyalists
+1275,Champions
+1278,Potential Loyalists
+1279,Risky Customers
+1280,Risky Customers
+1281,Potential Loyalists
+1284,Champions
+1285,Potential Loyalists
+1287,Potential Loyalists
+1288,Risky Customers
+1291,Risky Customers
+1294,Risky Customers
+1295,Potential Loyalists
+1297,Potential Loyalists
+1299,Potential Loyalists
+1300,Risky Customers
+1301,Champions
+1305,Potential Loyalists
+1311,Leaving Customers
+1316,Risky Customers
+1318,Champions
+1322,Risky Customers
+1325,Potential Loyalists
+1326,Leaving Customers
+1327,Risky Customers
+1329,Potential Loyalists
+1330,Potential Loyalists
+1333,Risky Customers
+1335,Leaving Customers
+1336,Potential Loyalists
+1337,Risky Customers
+1339,Risky Customers
+1340,Champions
+1341,Risky Customers
+1342,Risky Customers
+1343,Potential Loyalists
+1346,Potential Loyalists
+1347,Potential Loyalists
+1349,Potential Loyalists
+1354,Potential Loyalists
+1355,Champions
+1356,Champions
+1357,Potential Loyalists
+1360,Potential Loyalists
+1361,Champions
+1364,Potential Loyalists
+1368,Champions
+1369,Risky Customers
+1370,Potential Loyalists
+1371,Risky Customers
+1372,Leaving Customers
+1373,Potential Loyalists
+1374,Champions
+1376,Champions
+1377,Potential Loyalists
+1379,Potential Loyalists
+1384,Risky Customers
+1385,Risky Customers
+1386,Leaving Customers
+1387,Champions
+1391,Potential Loyalists
+1392,Risky Customers
+1393,Champions
+1396,Leaving Customers
+1398,Champions
+1400,Potential Loyalists
+1403,Risky Customers
+1406,Potential Loyalists
+1407,Leaving Customers
+1411,Risky Customers
+1412,Risky Customers
+1413,Potential Loyalists
+1415,Risky Customers
+1417,Potential Loyalists
+1419,Champions
+1420,Risky Customers
+1421,Champions
+1422,Leaving Customers
+1423,Leaving Customers
+1424,Potential Loyalists
+1426,Leaving Customers
+1427,Potential Loyalists
+1428,Potential Loyalists
+1429,Potential Loyalists
+1431,Potential Loyalists
+1436,Potential Loyalists
+1437,Potential Loyalists
+1438,Potential Loyalists
+1440,Champions
+1442,Potential Loyalists
+1443,Potential Loyalists
+1446,Champions
+1447,Champions
+1448,Potential Loyalists
+1449,Champions
+1450,Risky Customers
+1451,Potential Loyalists
+1454,Leaving Customers
+1456,Leaving Customers
+1457,Potential Loyalists
+1460,Potential Loyalists
+1461,Potential Loyalists
+1462,Leaving Customers
+1464,Potential Loyalists
+1470,Champions
+1472,Potential Loyalists
+1473,Risky Customers
+1474,Champions
+1475,Champions
+1476,Risky Customers
+1477,Potential Loyalists
+1478,Potential Loyalists
+1479,Risky Customers
+1483,Champions
+1484,Potential Loyalists
+1487,Risky Customers
+1488,Risky Customers
+1489,Potential Loyalists
+1490,Risky Customers
+1491,Potential Loyalists
+1492,Leaving Customers
+1493,Potential Loyalists
+1494,Potential Loyalists
+1499,Champions
+1500,Champions
+1501,Potential Loyalists
+1502,Risky Customers
+1503,Leaving Customers
+1504,Potential Loyalists
+1505,Champions
+1506,Potential Loyalists
+1508,Potential Loyalists
+1509,Champions
+1512,Potential Loyalists
+1513,Potential Loyalists
+1514,Potential Loyalists
+1516,Champions
+1517,Risky Customers
+1518,Risky Customers
+1521,Potential Loyalists
+1523,Champions
+1524,Potential Loyalists
+1525,Potential Loyalists
+1526,Champions
+1527,Champions
+1528,Champions
+1529,Risky Customers
+1530,Potential Loyalists
+1531,Potential Loyalists
+1532,Risky Customers
+1533,Risky Customers
+1534,Potential Loyalists
+1535,Potential Loyalists
+1536,Potential Loyalists
+1537,Risky Customers
+1538,Potential Loyalists
+1539,Potential Loyalists
+1542,Leaving Customers
+1543,Champions
+1546,Potential Loyalists
+1547,Potential Loyalists
+1548,Potential Loyalists
+1553,Potential Loyalists
+1555,Potential Loyalists
+1556,Potential Loyalists
+1557,Potential Loyalists
+1558,Risky Customers
+1559,Champions
+1560,Champions
+1561,Potential Loyalists
+1562,Risky Customers
+1563,Leaving Customers
+1564,Potential Loyalists
+1565,Champions
+1566,Potential Loyalists
+1567,Leaving Customers
+1568,Potential Loyalists
+1571,Risky Customers
+1572,Risky Customers
+1574,Potential Loyalists
+1575,Potential Loyalists
+1576,Leaving Customers
+1577,Champions
+1578,Champions
+1579,Potential Loyalists
+1584,Potential Loyalists
+1585,Potential Loyalists
+1587,Potential Loyalists
+1588,Champions
+1590,Champions
+1593,Champions
+1594,Potential Loyalists
+1597,Champions
+1598,Potential Loyalists
+1599,Champions
+1600,Potential Loyalists
+1601,Potential Loyalists
+1606,Potential Loyalists
+1608,Risky Customers
+1611,Risky Customers
+1613,Leaving Customers
+1614,Potential Loyalists
+1616,Potential Loyalists
+1619,Champions
+1620,Champions
+1621,Potential Loyalists
+1622,Potential Loyalists
+1623,Potential Loyalists
+1624,Leaving Customers
+1625,Risky Customers
+1626,Potential Loyalists
+1628,Risky Customers
+1629,Risky Customers
+1630,Champions
+1631,Risky Customers
+1632,Risky Customers
+1634,Risky Customers
+1635,Champions
+1637,Risky Customers
+1638,Potential Loyalists
+1641,Champions
+1643,Champions
+1644,Champions
+1645,Potential Loyalists
+1646,Champions
+1647,Potential Loyalists
+1649,Risky Customers
+1652,Champions
+1653,Potential Loyalists
+1654,Risky Customers
+1657,Champions
+1658,Risky Customers
+1659,Potential Loyalists
+1660,Champions
+1661,Champions
+1663,Risky Customers
+1665,Champions
+1666,Potential Loyalists
+1667,Potential Loyalists
+1668,Risky Customers
+1669,Potential Loyalists
+1670,Risky Customers
+1673,Potential Loyalists
+1674,Potential Loyalists
+1676,Potential Loyalists
+1677,Risky Customers
+1678,Leaving Customers
+1680,Risky Customers
+1684,Potential Loyalists
+1685,Leaving Customers
+1686,Potential Loyalists
+1688,Risky Customers
+1689,Potential Loyalists
+1690,Potential Loyalists
+1691,Champions
+1693,Potential Loyalists
+1694,Risky Customers
+1695,Risky Customers
+1696,Potential Loyalists
+1697,Potential Loyalists
+1698,Risky Customers
+1701,Potential Loyalists
+1702,Potential Loyalists
+1703,Champions
+1704,Leaving Customers
+1705,Risky Customers
+1706,Risky Customers
+1707,Champions
+1708,Potential Loyalists
+1710,Risky Customers
+1712,Potential Loyalists
+1714,Potential Loyalists
+1718,Potential Loyalists
+1720,Potential Loyalists
+1723,Champions
+1724,Potential Loyalists
+1726,Potential Loyalists
+1728,Risky Customers
+1729,Potential Loyalists
+1730,Potential Loyalists
+1731,Champions
+1732,Risky Customers
+1735,Potential Loyalists
+1736,Risky Customers
+1737,Potential Loyalists
+1739,Risky Customers
+1740,Leaving Customers
+1741,Potential Loyalists
+1742,Risky Customers
+1743,Potential Loyalists
+1745,Leaving Customers
+1747,Potential Loyalists
+1749,Champions
+1752,Potential Loyalists
+1753,Potential Loyalists
+1755,Potential Loyalists
+1757,Leaving Customers
+1758,Potential Loyalists
+1759,Potential Loyalists
+1761,Risky Customers
+1762,Potential Loyalists
+1763,Potential Loyalists
+1764,Champions
+1767,Champions
+1769,Risky Customers
+1770,Potential Loyalists
+1771,Leaving Customers
+1772,Potential Loyalists
+1773,Potential Loyalists
+1775,Potential Loyalists
+1777,Leaving Customers
+1778,Potential Loyalists
+1779,Leaving Customers
+1781,Potential Loyalists
+1782,Potential Loyalists
+1783,Leaving Customers
+1785,Risky Customers
+1787,Potential Loyalists
+1788,Leaving Customers
+1791,Risky Customers
+1792,Potential Loyalists
+1793,Champions
+1796,Potential Loyalists
+1797,Champions
+1799,Leaving Customers
+1800,Risky Customers
+1801,Potential Loyalists
+1802,Potential Loyalists
+1803,Risky Customers
+1804,Risky Customers
+1807,Leaving Customers
+1808,Potential Loyalists
+1809,Leaving Customers
+1810,Potential Loyalists
+1812,Leaving Customers
+1813,Leaving Customers
+1814,Potential Loyalists
+1815,Champions
+1816,Risky Customers
+1817,Leaving Customers
+1818,Leaving Customers
+1820,Potential Loyalists
+1821,Potential Loyalists
+1822,Potential Loyalists
+1823,Potential Loyalists
+1825,Risky Customers
+1826,Potential Loyalists
+1827,Risky Customers
+1828,Risky Customers
+1829,Leaving Customers
+1830,Potential Loyalists
+1831,Champions
+1832,Champions
+1833,Potential Loyalists
+1836,Potential Loyalists
+1837,Potential Loyalists
+1838,Risky Customers
+1839,Risky Customers
+1840,Potential Loyalists
+1841,Potential Loyalists
+1842,Potential Loyalists
+1843,Potential Loyalists
+1844,Potential Loyalists
+1845,Potential Loyalists
+1847,Leaving Customers
+1848,Potential Loyalists
+1850,Champions
+1851,Potential Loyalists
+1852,Potential Loyalists
+1853,Potential Loyalists
+1854,Risky Customers
+1855,Potential Loyalists
+1856,Risky Customers
+1857,Leaving Customers
+1858,Leaving Customers
+1859,Potential Loyalists
+1860,Risky Customers
+1861,Champions
+1862,Risky Customers
+1868,Potential Loyalists
+1869,Leaving Customers
+1872,Leaving Customers
+1873,Champions
+1874,Risky Customers
+1875,Champions
+1876,Champions
+1877,Potential Loyalists
+1878,Champions
+1880,Champions
+1881,Risky Customers
+1882,Potential Loyalists
+1883,Champions
+1884,Potential Loyalists
+1885,Risky Customers
+1886,Leaving Customers
+1887,Leaving Customers
+1888,Risky Customers
+1889,Risky Customers
+1890,Leaving Customers
+1891,Champions
+1892,Potential Loyalists
+1893,Potential Loyalists
+1894,Risky Customers
+1895,Potential Loyalists
+1896,Risky Customers
+1897,Potential Loyalists
+1900,Potential Loyalists
+1901,Potential Loyalists
+1903,Risky Customers
+1904,Champions
+1905,Potential Loyalists
+1906,Potential Loyalists
+1907,Potential Loyalists
+1908,Potential Loyalists
+1911,Potential Loyalists
+1912,Potential Loyalists
+1913,Potential Loyalists
+1915,Potential Loyalists
+1916,Champions
+1918,Champions
+1919,Potential Loyalists
+1920,Champions
+1921,Risky Customers
+1922,Leaving Customers
+1923,Potential Loyalists
+1924,Champions
+1926,Potential Loyalists
+1928,Potential Loyalists
+1929,Risky Customers
+1930,Potential Loyalists
+1931,Potential Loyalists
+1933,Champions
+1934,Champions
+1936,Potential Loyalists
+1937,Leaving Customers
+1939,Champions
+1940,Risky Customers
+1942,Risky Customers
+1944,Champions
+1945,Champions
+1946,Risky Customers
+1947,Risky Customers
+1949,Potential Loyalists
+1950,Leaving Customers
+1951,Potential Loyalists
+1952,Potential Loyalists
+1953,Champions
+1954,Risky Customers
+1956,Champions
+1957,Risky Customers
+1961,Potential Loyalists
+1962,Risky Customers
+1963,Champions
+1964,Potential Loyalists
+1965,Risky Customers
+1967,Potential Loyalists
+1969,Champions
+1970,Potential Loyalists
+1971,Potential Loyalists
+1972,Potential Loyalists
+1973,Champions
+1974,Potential Loyalists
+1975,Champions
+1976,Potential Loyalists
+1977,Champions
+1980,Potential Loyalists
+1981,Champions
+1982,Risky Customers
+1983,Risky Customers
+1986,Champions
+1990,Champions
+1992,Risky Customers
+1993,Champions
+1995,Potential Loyalists
+1996,Potential Loyalists
+1997,Champions
+1998,Potential Loyalists
+2000,Potential Loyalists
+2001,Champions
+2002,Leaving Customers
+2003,Leaving Customers
+2004,Champions
+2005,Champions
+2006,Potential Loyalists
+2007,Risky Customers
+2008,Risky Customers
+2009,Leaving Customers
+2010,Potential Loyalists
+2011,Leaving Customers
+2012,Risky Customers
+2014,Potential Loyalists
+2015,Leaving Customers
+2016,Potential Loyalists
+2018,Leaving Customers
+2019,Potential Loyalists
+2020,Potential Loyalists
+2021,Champions
+2023,Risky Customers
+2024,Risky Customers
+2025,Leaving Customers
+2026,Risky Customers
+2027,Champions
+2030,Potential Loyalists
+2031,Potential Loyalists
+2032,Potential Loyalists
+2035,Risky Customers
+2038,Risky Customers
+2039,Champions
+2040,Potential Loyalists
+2041,Leaving Customers
+2042,Potential Loyalists
+2043,Champions
+2044,Champions
+2045,Leaving Customers
+2046,Leaving Customers
+2047,Champions
+2048,Leaving Customers
+2049,Champions
+2050,Potential Loyalists
+2052,Risky Customers
+2054,Risky Customers
+2055,Potential Loyalists
+2056,Potential Loyalists
+2057,Risky Customers
+2058,Risky Customers
+2059,Champions
+2060,Champions
+2062,Champions
+2064,Champions
+2065,Potential Loyalists
+2068,Potential Loyalists
+2069,Risky Customers
+2070,Potential Loyalists
+2071,Champions
+2072,Potential Loyalists
+2073,Risky Customers
+2075,Leaving Customers
+2076,Champions
+2077,Leaving Customers
+2078,Potential Loyalists
+2079,Risky Customers
+2080,Potential Loyalists
+2083,Risky Customers
+2084,Potential Loyalists
+2086,Champions
+2087,Risky Customers
+2088,Risky Customers
+2089,Champions
+2090,Leaving Customers
+2091,Leaving Customers
+2092,Risky Customers
+2093,Risky Customers
+2095,Champions
+2096,Leaving Customers
+2097,Champions
+2098,Risky Customers
+2099,Champions
+2100,Champions
+2101,Potential Loyalists
+2102,Potential Loyalists
+2105,Leaving Customers
+2106,Leaving Customers
+2108,Potential Loyalists
+2109,Champions
+2110,Risky Customers
+2111,Potential Loyalists
+2112,Potential Loyalists
+2113,Risky Customers
+2114,Risky Customers
+2115,Potential Loyalists
+2116,Champions
+2119,Leaving Customers
+2122,Champions
+2123,Leaving Customers
+2125,Risky Customers
+2126,Champions
+2127,Potential Loyalists
+2128,Risky Customers
+2129,Potential Loyalists
+2130,Risky Customers
+2131,Leaving Customers
+2132,Risky Customers
+2133,Risky Customers
+2135,Potential Loyalists
+2136,Champions
+2139,Champions
+2141,Risky Customers
+2142,Risky Customers
+2143,Champions
+2144,Leaving Customers
+2145,Risky Customers
+2146,Risky Customers
+2147,Champions
+2148,Risky Customers
+2149,Potential Loyalists
+2150,Champions
+2151,Risky Customers
+2152,Potential Loyalists
+2154,Risky Customers
+2155,Risky Customers
+2156,Champions
+2157,Champions
+2159,Potential Loyalists
+2160,Potential Loyalists
+2161,Risky Customers
+2162,Leaving Customers
+2164,Potential Loyalists
+2165,Potential Loyalists
+2166,Risky Customers
+2167,Risky Customers
+2168,Risky Customers
+2169,Potential Loyalists
+2170,Champions
+2171,Leaving Customers
+2172,Risky Customers
+2173,Potential Loyalists
+2174,Potential Loyalists
+2176,Potential Loyalists
+2177,Potential Loyalists
+2179,Potential Loyalists
+2182,Potential Loyalists
+2183,Potential Loyalists
+2184,Champions
+2185,Potential Loyalists
+2186,Risky Customers
+2187,Leaving Customers
+2189,Leaving Customers
+2190,Champions
+2191,Potential Loyalists
+2192,Risky Customers
+2194,Risky Customers
+2196,Risky Customers
+2197,Potential Loyalists
+2198,Potential Loyalists
+2199,Risky Customers
+2200,Risky Customers
+2201,Potential Loyalists
+2203,Risky Customers
+2204,Leaving Customers
+2205,Leaving Customers
+2206,Potential Loyalists
+2207,Risky Customers
+2208,Champions
+2209,Potential Loyalists
+2212,Leaving Customers
+2213,Potential Loyalists
+2214,Champions
+2215,Risky Customers
+2216,Champions
+2218,Potential Loyalists
+2219,Potential Loyalists
+2220,Risky Customers
+2221,Risky Customers
+2222,Risky Customers
+2223,Champions
+2224,Potential Loyalists
+2225,Potential Loyalists
+2226,Champions
+2227,Risky Customers
+2228,Risky Customers
+2229,Potential Loyalists
+2230,Champions
+2233,Champions
+2234,Potential Loyalists
+2235,Potential Loyalists
+2236,Risky Customers
+2237,Champions
+2238,Champions
+2242,Risky Customers
+2243,Potential Loyalists
+2244,Risky Customers
+2245,Potential Loyalists
+2247,Champions
+2249,Risky Customers
+2250,Risky Customers
+2252,Risky Customers
+2253,Champions
+2255,Leaving Customers
+2256,Leaving Customers
+2257,Risky Customers
+2258,Risky Customers
+2259,Risky Customers
+2260,Champions
+2261,Champions
+2262,Potential Loyalists
+2263,Risky Customers
+2265,Risky Customers
+2266,Risky Customers
+2268,Leaving Customers
+2269,Risky Customers
+2270,Risky Customers
+2271,Risky Customers
+2272,Risky Customers
+2274,Potential Loyalists
+2277,Risky Customers
+2278,Leaving Customers
+2279,Risky Customers
+2283,Potential Loyalists
+2284,Risky Customers
+2285,Risky Customers
+2287,Potential Loyalists
+2288,Risky Customers
+2289,Risky Customers
+2292,Champions
+2294,Risky Customers
+2295,Risky Customers
+2296,Champions
+2297,Risky Customers
+2300,Risky Customers
+2301,Champions
+2302,Risky Customers
+2303,Potential Loyalists
+2304,Risky Customers
+2310,Champions
+2311,Risky Customers
+2312,Risky Customers
+2313,Champions
+2314,Risky Customers
+2315,Leaving Customers
+2319,Potential Loyalists
+2320,Risky Customers
+2321,Champions
+2322,Leaving Customers
+2323,Risky Customers
+2324,Risky Customers
+2325,Risky Customers
+2326,Leaving Customers
+2328,Champions
+2329,Risky Customers
+2330,Risky Customers
+2331,Risky Customers
+2336,Risky Customers
+2337,Risky Customers
+2338,Champions
+2339,Risky Customers
+2340,Leaving Customers
+2343,Risky Customers
+2344,Risky Customers
+2345,Potential Loyalists
+2347,Risky Customers
+2348,Risky Customers
+2349,Potential Loyalists
+2350,Champions
+2351,Risky Customers
+2352,Risky Customers
+2354,Leaving Customers
+2355,Potential Loyalists
+2356,Leaving Customers
+2357,Potential Loyalists
+2358,Risky Customers
+2360,Risky Customers
+2361,Potential Loyalists
+2362,Potential Loyalists
+2363,Potential Loyalists
+2364,Risky Customers
+2365,Risky Customers
+2366,Risky Customers
+2367,Leaving Customers
+2368,Risky Customers
+2369,Champions
+2370,Leaving Customers
+2371,Potential Loyalists
+2372,Champions
+2374,Champions
+2375,Champions
+2376,Risky Customers
+2377,Leaving Customers
+2378,Risky Customers
+2379,Risky Customers
+2380,Champions
+2381,Risky Customers
+2382,Risky Customers
+2384,Risky Customers
+2385,Risky Customers
+2386,Risky Customers
+2387,Risky Customers
+2388,Champions
+2389,Champions
+2390,Risky Customers
+2391,Risky Customers
+2392,Risky Customers
+2394,Champions
+2395,Leaving Customers
+2396,Champions
+2397,Leaving Customers
+2398,Risky Customers
+2401,Champions
+2402,Risky Customers
+2403,Risky Customers
+2404,Leaving Customers
+2405,Risky Customers
+2407,Leaving Customers
+2408,Champions
+2409,Champions
+2410,Risky Customers
+2412,Leaving Customers
+2413,Risky Customers
+2414,Risky Customers
+2415,Risky Customers
+2416,Potential Loyalists
+2417,Leaving Customers
+2418,Champions
+2419,Risky Customers
+2420,Potential Loyalists
+2421,Risky Customers
+2422,Champions
+2423,Risky Customers
+2424,Risky Customers
+2427,Risky Customers
+2428,Risky Customers
+2429,Leaving Customers
+2430,Leaving Customers
+2431,Risky Customers
+2432,Risky Customers
+2434,Risky Customers
+2435,Risky Customers
+2436,Risky Customers
+2437,Risky Customers
+2438,Risky Customers
+2439,Risky Customers
+2441,Risky Customers
+2442,Leaving Customers
+2444,Potential Loyalists
+2445,Risky Customers
+2448,Risky Customers
+2450,Risky Customers
+2451,Risky Customers
+2452,Leaving Customers
+2453,Risky Customers
+2454,Risky Customers
+2455,Leaving Customers
+2456,Risky Customers
+2457,Leaving Customers
+2458,Champions
+2459,Potential Loyalists
+2460,Risky Customers
+2461,Risky Customers
+2462,Leaving Customers
+2463,Potential Loyalists
+2465,Risky Customers
+2467,Risky Customers
+2468,Risky Customers
+2469,Risky Customers
+2470,Leaving Customers
+2471,Leaving Customers
+2473,Leaving Customers
+2474,Risky Customers
+2475,Risky Customers
+2476,Risky Customers
+2477,Risky Customers
+2479,Potential Loyalists
+2480,Risky Customers
+2481,Risky Customers
+2483,Risky Customers
+2484,Risky Customers
+2485,Risky Customers
+2486,Risky Customers
+2487,Risky Customers
+2488,Champions
+2489,Risky Customers
+2491,Potential Loyalists
+2492,Champions
+2493,Risky Customers
+2494,Risky Customers
+2495,Risky Customers
+2497,Champions
+2498,Champions
+2499,Champions
+2500,Risky Customers
+2501,Risky Customers
+2502,Risky Customers
+2503,Risky Customers
+2504,Risky Customers
+2505,Champions
+2506,Risky Customers
+2507,Potential Loyalists
+2508,Risky Customers
+2509,Risky Customers
+2510,Risky Customers
+2511,Potential Loyalists
+2512,Risky Customers
+2513,Leaving Customers
+2515,Risky Customers
+2517,Risky Customers
+2524,Risky Customers
+2525,Risky Customers
+2526,Risky Customers
+2527,Risky Customers
+2529,Potential Loyalists
+2530,Risky Customers
+2531,Risky Customers
+2533,Risky Customers
+2534,Risky Customers
+2535,Leaving Customers
+2536,Risky Customers
+2537,Leaving Customers
+2538,Leaving Customers
+2539,Potential Loyalists
+2541,Leaving Customers
+2542,Leaving Customers
+2548,Risky Customers
+2549,Potential Loyalists
+2550,Risky Customers
+2554,Risky Customers
+2555,Leaving Customers
+2556,Leaving Customers
+2557,Risky Customers
+2558,Leaving Customers
+2559,Risky Customers
+2560,Risky Customers
+2561,Leaving Customers
+2562,Risky Customers
+2564,Risky Customers
+2571,Risky Customers
+2575,Risky Customers
+2576,Leaving Customers
+2577,Leaving Customers
+2579,Leaving Customers
+2580,Leaving Customers
+2581,Risky Customers
+2582,Leaving Customers
+2583,Risky Customers
+2585,Potential Loyalists
+2586,Potential Loyalists
+2588,Risky Customers
+2595,Risky Customers
+2598,Potential Loyalists
+2599,Risky Customers
+2600,Potential Loyalists
+2601,Risky Customers
+2603,Risky Customers
+2604,Risky Customers
+2605,Risky Customers
+2607,Leaving Customers
+2608,Champions
+2609,Champions
+2610,Risky Customers
+2611,Risky Customers
+2612,Risky Customers
+2613,Risky Customers
+2614,Risky Customers
+2615,Leaving Customers
+2616,Risky Customers
+2617,Risky Customers
+2618,Leaving Customers
+2619,Leaving Customers
+2621,Risky Customers
+2622,Leaving Customers
+2623,Risky Customers
+2624,Risky Customers
+2625,Risky Customers
+2626,Risky Customers
+2628,Risky Customers
+2629,Risky Customers
+2631,Leaving Customers
+2632,Risky Customers
+2633,Leaving Customers
+2634,Leaving Customers
+2635,Risky Customers
+2637,Risky Customers
+2638,Risky Customers
+2641,Risky Customers
+2642,Potential Loyalists
+2643,Potential Loyalists
+2645,Risky Customers
+2646,Risky Customers
+2648,Risky Customers
+2649,Risky Customers
+2650,Leaving Customers
+2652,Risky Customers
+2654,Potential Loyalists
+2655,Risky Customers
+2657,Leaving Customers
+2658,Risky Customers
+2660,Potential Loyalists
+2661,Risky Customers
+2664,Leaving Customers
+2665,Leaving Customers
+2667,Risky Customers
+2669,Leaving Customers
+2670,Leaving Customers
+2671,Leaving Customers
+2672,Leaving Customers
+2673,Leaving Customers
+2674,Risky Customers
+2675,Potential Loyalists
+2678,Risky Customers
+2679,Leaving Customers
+2680,Leaving Customers
+2681,Risky Customers
+2683,Leaving Customers
+2684,Leaving Customers
+2685,Risky Customers
+2686,Risky Customers
+2687,Leaving Customers
+2688,Leaving Customers
+2689,Risky Customers
+2690,Risky Customers
+2691,Leaving Customers
+2693,Risky Customers
+2694,Risky Customers
+2695,Leaving Customers
+2696,Leaving Customers
+2697,Risky Customers
+2698,Leaving Customers
+2699,Leaving Customers
+2700,Leaving Customers
+2701,Leaving Customers
+2702,Leaving Customers
+2703,Risky Customers
+2704,Risky Customers
+2705,Risky Customers
+2706,Risky Customers
+2707,Leaving Customers
+2708,Leaving Customers
+2709,Leaving Customers
+2711,Risky Customers
+2713,Leaving Customers
+2714,Leaving Customers
+2715,Risky Customers
+2716,Leaving Customers
+2718,Leaving Customers
+2719,Leaving Customers
+2720,Leaving Customers
+2721,Leaving Customers
+2722,Leaving Customers
+2723,Leaving Customers
+2724,Leaving Customers
+2725,Leaving Customers
+2726,Leaving Customers
+2727,Leaving Customers
+2728,Leaving Customers
+2729,Leaving Customers
+2730,Leaving Customers
+2731,Risky Customers
+2732,Leaving Customers
+2733,Risky Customers
+2734,Leaving Customers
+2735,Leaving Customers
+2736,Risky Customers
+2737,Leaving Customers
+2738,Leaving Customers
+2739,Leaving Customers
+2741,Leaving Customers
+2742,Leaving Customers
+2743,Leaving Customers
+2744,Leaving Customers
+2745,Leaving Customers
+2747,Leaving Customers
+2748,Leaving Customers
+2749,Leaving Customers
+2750,Leaving Customers
+2751,Leaving Customers
+2752,Leaving Customers
+2753,Leaving Customers
+2754,Leaving Customers
+2755,Risky Customers
+2756,Leaving Customers
+2757,Leaving Customers
+2758,Leaving Customers
+2759,Leaving Customers
+2760,Leaving Customers
+2761,Leaving Customers
+2763,Leaving Customers
+2764,Leaving Customers
+2765,Leaving Customers
+2766,Leaving Customers
+2767,Leaving Customers
+2768,Leaving Customers
+2769,Risky Customers
+2771,Leaving Customers
